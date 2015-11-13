@@ -1,1 +1,1 @@
-# Decrypt-The-Stranger
+一款集解密+社交于一体的趣味app。基于android 4.0开发。
